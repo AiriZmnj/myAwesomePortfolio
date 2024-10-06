@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    background-color #f5f4f4;
+    font-family: "Roboto"sans-serif;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; object-fit: cover;
+}
+
+h3 {
+    color: #B2456E;
+    font-family: "Inclusive Sans", sans-serif;
+    text-align: center;
+}
+
+#iam {
+    color: #552619;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+}
+
+table {
+    background-color: #FBEAE7 ;
+    border: 1px solid #A9A9A9;
+    width: 600px;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid #A9A9A9;
+    text-align: center;
+}
+#figma {
+    color: #B2456E;
+}
+
+#html {
+    color: #552619;
+}
+    
+p {
+    text-align: center;
+}
+
+a { 
+    display: block;
+    width: 200px;
+    text-decoration: none;
+    margin: 20px auto;
+    text-align: center;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    width: 160px;
+    height: 6px;
+    background-color: #B2456E;
+    border-radius: 7px;
+}
+#logo {
+    font-size: 32px;
+}
+
